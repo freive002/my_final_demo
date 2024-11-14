@@ -1,0 +1,1 @@
+this project start 14.11.2024(14 now), everybody should be able to edit in the startup prosess
